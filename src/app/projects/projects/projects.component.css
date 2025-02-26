@@ -1,0 +1,55 @@
+.project{
+
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  column-gap: 3rem;
+  border-radius: 1rem;
+  row-gap: 4rem;
+  margin: 0 4rem 4rem;
+}
+.card {
+  background-color: wheat;
+  text-align: center;
+  box-shadow: 0 0 25px orangered, 0 0 50px orangered;
+}
+.card .imgs{
+    width:100%;
+    padding: 4% 4% 0;
+   
+    
+}
+  .card .imgs img {
+    width: 100%;
+    
+  }
+.card h3{
+    margin: 2% 0;
+    font-size:24px;
+    letter-spacing:.5px;
+    padding:0 4%;
+}
+.card p{
+    font-size:16px;
+    letter-spacing:.8px;
+    margin:0 0 2%;
+    padding:0 4%;
+}
+
+.btn {
+  padding: 9px 15px;
+  background-color: orangered;
+  color: white;
+  border: 2px solid black;
+  border-radius: 8px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  transition: 0.3s ease;
+  margin:0 0 4%;
+}
+.btn:hover {
+    background-color: white;
+    color: orangered;
+}

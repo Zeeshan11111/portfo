@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\my-portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\components\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\contact\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\contact\\contact\\contact.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\contact\\contact.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\contact\\contact\\contact.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\about\\about\\about.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\about\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\components\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\blog\\blog\\blog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\blog\\blog\\blog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.module.ts",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\home\\home.module.ts",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home.module.ts",
+              "RelativeToolTip": "src\\app\\home\\home.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:14:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.module.ts",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\contact\\contact.module.ts",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact.module.ts",
+              "RelativeToolTip": "src\\app\\contact\\contact.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:14:21.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact.component.ts",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\contact\\contact\\contact.component.ts",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.ts",
+              "RelativeToolTip": "src\\app\\contact\\contact\\contact.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:06:48.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.ts",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-10T18:06:20.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact.component.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.css",
+              "RelativeDocumentMoniker": "src\\app\\contact\\contact\\contact.component.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.css",
+              "RelativeToolTip": "src\\app\\contact\\contact\\contact.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-10T18:04:07.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contact.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.html",
+              "RelativeDocumentMoniker": "src\\app\\contact\\contact\\contact.component.html",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\contact\\contact\\contact.component.html",
+              "RelativeToolTip": "src\\app\\contact\\contact\\contact.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T18:03:23.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\components\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "src\\app\\shared\\components\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T17:59:05.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "about.component.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.css",
+              "RelativeDocumentMoniker": "src\\app\\about\\about\\about.component.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.css",
+              "RelativeToolTip": "src\\app\\about\\about\\about.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-10T17:56:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "about.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.html",
+              "RelativeDocumentMoniker": "src\\app\\about\\about\\about.component.html",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\about\\about\\about.component.html",
+              "RelativeToolTip": "src\\app\\about\\about\\about.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T17:56:12.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nav-bar.component.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.css",
+              "RelativeDocumentMoniker": "src\\app\\shared\\components\\nav-bar\\nav-bar.component.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\shared\\components\\nav-bar\\nav-bar.component.css",
+              "RelativeToolTip": "src\\app\\shared\\components\\nav-bar\\nav-bar.component.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T22:00:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T21:59:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.css",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\home\\home\\home.component.css",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T21:38:31.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "blog.component.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.css",
+              "RelativeDocumentMoniker": "src\\app\\blog\\blog\\blog.component.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.css",
+              "RelativeToolTip": "src\\app\\blog\\blog\\blog.component.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T21:21:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "blog.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.html",
+              "RelativeDocumentMoniker": "src\\app\\blog\\blog\\blog.component.html",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\my-portfolio\\src\\app\\blog\\blog\\blog.component.html",
+              "RelativeToolTip": "src\\app\\blog\\blog\\blog.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T21:20:40.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<section class="contact-form" [dir]="'dir' | translate">
+  <h2 class="contact-me">{{'cont.h' | translate}} <span style="color:orangered">{{'cont.h2' | translate}}</span></h2>
+  <form [formGroup]="driveForm" (ngSubmit)="submitForm()">
+    <div class="input-box">
+      <input type="text" #fullName formControlName="fullName" placeholder="{{'cont.place' | translate }}" />
+      <input type="email" #email formControlEmail="email" placeholder="{{'cont.place1' | translate }}" />
+    </div>
+    <div class="input-box">
+      <input type="number" #number formControlNumber="number" placeholder="{{'cont.place2' | translate }}" />
+      <input type="text" #subject formControlSubject="subject" placeholder="{{'cont.place3' | translate }}" />
+    </div>
+    <textarea #message formConttrolMessage="message" cols="30" rows="10" placeholder="{{'cont.place4' | translate }}"></textarea>
+    <input type="submit" value="{{'cont.value' | translate }}" class="btn-1" />
+  </form>
+</section>

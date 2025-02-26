@@ -1,0 +1,35 @@
+<footer class="footer" [dir]="'dir' | translate">
+  <div class="social">
+    <a href="https://www.facebook.com/chaudhary.zeeshan.775" target="_blank"  rel="noopener noreferrer"><i class='bx bxl-facebook-circle'></i></a>
+    <a href="https://github.com/Zeeshan11111" target="_blank"  rel="noopener noreferrer"><i class='bx bxl-github'></i></a>
+    <a href="https://www.linkedin.com/in/Zeeshan.Rasool" target="_blank"  rel="noopener noreferrer"><i class='bx bxl-linkedin-square'></i></a>
+    <a href="https://www.instagram.com/zeeshanrasool555" target="_blank"  rel="noopener noreferrer"><i class='bx bxl-instagram-alt'></i></a>
+  </div>
+  <ul class="list">
+    <li>
+      <a [routerLink]="['**']">{{'footer.h' | translate}}</a>
+    </li>
+    <li>
+      <a [routerLink]="['/blog']">{{'footer.h1' | translate}}</a>
+    </li>
+    <li>
+      <a [routerLink]="['/about']">{{'footer.h2' | translate}}</a>
+    </li>
+    <li>
+      <a [routerLink]="['/contact']">{{'footer.h3' | translate}}</a>
+    </li>
+    <li>
+      <a [routerLink]="['**']">{{'footer.h4' | translate}}</a>
+    </li>
+  </ul>
+
+  <select  (change)="changeLanguage($event)" class="select">
+    <option value="en">{{'footer.option' | translate}}</option>
+    <option value="ur">{{'footer.option1' | translate}}</option>
+    <option value="ar">{{'footer.option2' | translate}}</option>
+    <option value="hi">{{'footer.option3' | translate}}</option>
+    <option value="ps">{{'footer.option4' | translate}}</option>
+  </select>
+
+  <p class="copyright"> © 2025 Zeeshan | All Rights Reserved </p>
+</footer>

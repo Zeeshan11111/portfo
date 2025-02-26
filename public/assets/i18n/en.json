@@ -1,0 +1,56 @@
+{
+  "dir": "ltr",
+  "userName": {
+    "zee": "Zee",
+    "Shan": "shan"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "experience": "Experience",
+    "LANGUAGE": "Langue"
+  },
+
+  "contact": "Contact Me",
+  "home": {
+    "Hi": "Hello,My self",
+    "name": {
+      "h1": "Zeeshan Rasool",
+      "h": "And I'm a",
+      "h2": [ "Frontend Developer"],
+      "p": "Frontend development involves building the user interface (UI) and user experience (UX) of a website or application using technologies like HTML, CSS, and JavaScript.",
+      "btn": "Hire Me"
+    }
+  },
+  "about": {
+    "h2": "About",
+    "h": "Me",
+    "h3": "Frontend",
+    "h1": "Developer",
+    "p": "It uses technologies like HTML, CSS, and JavaScript to build responsive web pages.It uses technologies like HTML, CSS, and JavaScript to build responsive web pages.A good frontend ensures a smooth and engaging user experience across devices."
+  },
+  "cont": {
+    "h2": "Me",
+    "h": "Contact",
+    "place": "Full Name",
+    "place1": "Email",
+    "place2": "enter your number",
+    "place3": "subject",
+    "place4": "your message",
+    "value": "Send Message"
+  },
+  "footer": {
+    "h": "FQA",
+    "h1": "Services",
+    "h2": "About Me",
+    "h3": "Contact",
+    "h4": "Privacy Policy",
+    "option": "English",
+    "option1": "Urdu",
+    "option2": "Persian",
+    "option3": "Hindi",
+    "option4": "Arabic"
+  }
+}

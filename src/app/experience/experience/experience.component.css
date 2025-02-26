@@ -1,0 +1,40 @@
+.container {
+  width: 80%;
+  margin: 10rem auto 0;
+  padding: 20px;
+}
+  .container h1 {
+    margin-bottom: 2rem;
+    text-align: center;
+    
+  }
+  
+
+h1, h2 {
+  color: #333;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  column-gap: 3rem;
+  row-gap: 4rem;
+}
+
+.section {
+  padding: 15px;
+  background: wheat;
+  box-shadow: 0 0 25px orangered, 0 0 50px orangered;
+}
+
+.project {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background:white;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+

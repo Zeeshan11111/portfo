@@ -1,0 +1,11 @@
+<section class="service" id="services">
+  <h2>My <span style="color:orangered">Services</span></h2>
+  <div class="service-container">
+    <div *ngFor="let service of myData" class="services-box">
+      <i [class]="service.icon"></i>
+      <h3>{{ service.title }}</h3>
+      <p>{{ service.description }}</p>
+      <a [routerLink]="['service.link']" class="btn">Read More</a>
+    </div>
+  </div>
+</section>

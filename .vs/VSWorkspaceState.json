@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\assets",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\about",
+    "\\src\\app\\about\\about",
+    "\\src\\app\\blog",
+    "\\src\\app\\directives",
+    "\\src\\app\\experience",
+    "\\src\\app\\experience\\experience"
+  ],
+  "SelectedNode": "\\angular.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,19 @@
+<section class="home" [dir]="'dir' | translate">
+  <mat-card data-aos="fade-left"   class="home-content">
+    <h3>{{'home.Hi' | translate}}</h3>
+    <h1>{{'home.name.h1' | translate}}</h1>
+    <div data-aos="fade-in" class="aminate rotate-text">
+      <h1>{{'home.name.h' | translate}} <span style="color:orangered">{{'home.name.h2' | translate}}</span></h1>
+    </div>
+    <p data-aos="fade-in" class="rotate-text" >
+      {{'home.name.p' | translate}}
+    </p>
+    <mat-card data-aos="fade-in" class="btn-box rotate-text">
+      <button class="btn-1">{{'home.name.btn' | translate}}</button>
+      <button class="btn-2" [routerLink]="['/experience']">{{'navbar.experience' | translate}}</button>
+    </mat-card>
+  </mat-card>
+  <mat-card  data-aos="fade-in" class="image-box rotate-text">
+    <img src="assets/images/zee.jpg" alt="LCP image" priority="high" loading="lazy"/>
+  </mat-card>
+</section>

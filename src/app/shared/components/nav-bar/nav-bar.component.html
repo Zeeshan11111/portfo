@@ -1,0 +1,26 @@
+<mat-toolbar class="header" [dir]="'dir' | translate">
+  <a [routerLink]="['**']" class="logo"><span>{{ 'userName.zee' | translate}}</span>{{'userName.Shan' | translate}}</a>
+  <nav class="navbar">
+    <ul class="sidebar" [ngClass]="{ 'show-sidebar': isSidebarOpen }">
+      <li><a (click)="toggleSidebar()"><i class='bx bx-x'></i></a></li>
+      <li><a [routerLink]="['home']">{{'navbar.home' | translate}}</a></li>
+      <li><a [routerLink]="['/blog']">{{'navbar.services' | translate}}</a></li>
+      <li><a [routerLink]="['/projects']">{{'navbar.projects' | translate}}</a></li>
+      <li><a [routerLink]="['/about']">{{'navbar.about' | translate}}</a></li>
+      <li><a [routerLink]="['/experience']">{{'navbar.experience' | translate}}</a></li>
+      <li><a [routerLink]="['/contact']">{{'contact' | translate}}</a></li>
+    </ul>
+    <ul class="hideOnMobile">
+      <li><a [routerLink]="['home']" routerLinkActive="active">{{'navbar.home' | translate}}</a></li>
+      <li><a [routerLink]="['/blog']" routerLinkActive="active">{{'navbar.services' | translate}}</a></li>
+      <li><a [routerLink]="['/projects']" routerLinkActive="active">{{'navbar.projects' | translate}}</a></li>
+      <li><a [routerLink]="['/about']" routerLinkActive="active">{{'navbar.about' | translate}}</a></li>
+      <li><a [routerLink]="['/experience']" routerLinkActive="active">{{'navbar.experience' | translate}}</a></li>
+      <li><a [routerLink]="['/contact']" routerLinkActive="active">{{'contact' | translate}}</a></li>
+    </ul>
+  </nav>
+  <button  (click)="toggleSidebar()" class="contact menu" ><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 26 26"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"></path></svg></button>
+  
+</mat-toolbar>
+
+
